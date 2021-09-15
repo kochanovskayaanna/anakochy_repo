@@ -1,2 +1,2 @@
 a = 'Anya'
-print(a)
+print('Ты такая молодец, a)
