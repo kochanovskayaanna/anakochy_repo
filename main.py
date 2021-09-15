@@ -1,0 +1,2 @@
+a = 'Anya'
+print(a)
