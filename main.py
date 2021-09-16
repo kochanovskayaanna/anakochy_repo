@@ -1,2 +1,3 @@
 a = 'Anya'
-print('Ты такая молодец, a)
+print(a)
+print(a, 'привет!')
