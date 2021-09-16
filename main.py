@@ -1,3 +1,3 @@
 a = 'Anya'
 print(a)
-print(a, 'привет!')
+print(a, 'ну все!')
